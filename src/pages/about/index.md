@@ -1,13 +1,30 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: About Us
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### COMMUNITY ASSOCIATION MANAGEMENT SERVICES
+Our experienced Florida Licensed Community Association Managers have
+attended the legendary Oxford International Service Academy. We
+understand that there are no two communities are exactly alike. Community
+association board of directors know what is unique to their community and
+what they need to function efficiently. We align our goals to goals of our
+communities.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### Full Service Management
+The Full Service Management Plan offers the following:
+ Administrative support and organization of all records
+ Accounting and financial support, including accounting software
+ Annual meeting and election procedures
+ Board meeting attendance
+ Budgeting and cost management
+ Collection management
+ Consulting services
+ Communications oral, written, electronic, internal and external
+ Providing a stable source for the ongoing operation of the community
+ Project management and vendor vetting
+ Reserve funding for the timely execution of repairs
+ Up to date knowledge Florida Statutes and governance procedures
 
 ### Sustainable farming
 Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
