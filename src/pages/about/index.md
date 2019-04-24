@@ -13,18 +13,18 @@ communities.
 
 ### Full Service Management
 The Full Service Management Plan offers the following:
- Administrative support and organization of all records
- Accounting and financial support, including accounting software
- Annual meeting and election procedures
- Board meeting attendance
- Budgeting and cost management
- Collection management
- Consulting services
- Communications oral, written, electronic, internal and external
- Providing a stable source for the ongoing operation of the community
- Project management and vendor vetting
- Reserve funding for the timely execution of repairs
- Up to date knowledge Florida Statutes and governance procedures
+- Administrative support and organization of all records
+- Accounting and financial support, including accounting software
+- Annual meeting and election procedures
+- Board meeting attendance
+- Budgeting and cost management
+- Collection management
+- Consulting services
+- Communications oral, written, electronic, internal and external
+- Providing a stable source for the ongoing operation of the community
+- Project management and vendor vetting
+- Reserve funding for the timely execution of repairs
+- Up to date knowledge Florida Statutes and governance procedures
 
 ### Sustainable farming
 Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
