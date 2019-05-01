@@ -12,6 +12,7 @@ export const IndexPageTemplate = ({
   subheading,
   mainpitch,
   subpitch,
+  whatwedo,
 }) => (
     <div>
       <div
@@ -107,6 +108,7 @@ IndexPageTemplate.propTypes = {
   subheading: PropTypes.string,
   mainpitch: PropTypes.object,
   subpitch: PropTypes.object,
+  whatwedo: PropTypes.object,
 }
 
 const IndexPage = ({ data }) => {
@@ -121,6 +123,7 @@ const IndexPage = ({ data }) => {
         subheading={frontmatter.subheading}
         mainpitch={frontmatter.mainpitch}
         subpitch={frontmatter.subpitch}
+        whatwedo={frontmatter.whatwedo}
       />
     </Layout>
   )
@@ -155,6 +158,10 @@ export const pageQuery = graphql`
           description
         }
         subpitch {
+          title
+          description
+        }
+        whatwedo {
           title
           description
         }

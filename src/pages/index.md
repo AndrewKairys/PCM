@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great Community Service Management with a personal touch
+title: Community Service Management with a personal touch
 image: /img/home-jumbotron.jpg
 heading: Great Community Service Management
 subheading: Find out just how smoothly your Community Association can operate
@@ -22,22 +22,22 @@ subpitch:
     Association Management to Portfolio Management. 
     Starting with our Basic Service Plan we offer the maximum flexibility to add
     or reduce management service as required by the Board of Directors.
-
-  # title: All Inclusive Service Packages include
-  # description: >
-  #   -Annual Budget Analysis and Preparation
-  #   -Board of Directors and Unit Owner meeting attendance
-  #   -Maintaining Accounting records necessary to produce Financial Statements
-  #     in accordance with generally accepted accounting principles
-  #   -Review of all Vendor invoices and preparation of checks for the Board of
-  #     director’s approval and signatures,
-  #   -Report monthly assessments as deposited in the Florida Community Bank
-  #     (FCB) Lock box
-  #   -Provide monthly aging unit owners report and forward delinquent accounts
-  #     to the association’s attorney as per the Boards instructions
-  #   -Assist the association’s insurance agent with up to date information as
-  #     requested and to file all claims in a timely fashion
-  #   -Order reserve studies when required
-  #   -Keep the Board of Directors updated on all Florida Statutes and regulations
-  #     pertain to their association.
+whatwedo:
+  title: All Inclusive Service Packages include
+  description: >
+    -Annual Budget Analysis and Preparation
+    -Board of Directors and Unit Owner meeting attendance
+    -Maintaining Accounting records necessary to produce Financial Statements
+      in accordance with generally accepted accounting principles
+    -Review of all Vendor invoices and preparation of checks for the Board of
+      director’s approval and signatures,
+    -Report monthly assessments as deposited in the Florida Community Bank
+      (FCB) Lock box
+    -Provide monthly aging unit owners report and forward delinquent accounts
+      to the association’s attorney as per the Boards instructions
+    -Assist the association’s insurance agent with up to date information as
+      requested and to file all claims in a timely fashion
+    -Order reserve studies when required
+    -Keep the Board of Directors updated on all Florida Statutes and regulations
+      pertain to their association.
 ---
