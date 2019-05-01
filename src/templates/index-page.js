@@ -164,5 +164,4 @@ export const pageQuery = graphql`
         }
       }
     }
-  }
 `
