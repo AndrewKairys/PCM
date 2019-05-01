@@ -125,7 +125,7 @@ const IndexPage = ({ data }) => {
         heading={frontmatter.heading}
         subheading={frontmatter.subheading}
         mainpitch={frontmatter.mainpitch}
-        description={frontmatter.description}
+        subpitch={frontmatter.subpitch}
         intro={frontmatter.intro}
       />
     </Layout>
@@ -164,7 +164,6 @@ export const pageQuery = graphql`
           title
           description
         }
-        description
         intro {
           blurbs {
             image {
