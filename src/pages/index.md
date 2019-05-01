@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Community Service Management with a personal touch
 image: /img/home-jumbotron.jpg
-heading: Great Community Service Management
+heading: Great community association management is within reach!
 subheading: Find out just how smoothly your Community Association can operate
 mainpitch:
   title: Why PCM
