@@ -16,7 +16,7 @@ mainpitch:
     modern technology to providing the best methods of effective budget
     management.
   title: What We Do 
-  description: >-
+  description: >
     PCM offers the services your Board of Directors want, from Master
     Association Management to Portfolio Management. 
     Starting with our Basic Service Plan we offer the maximum flexibility to add
@@ -38,3 +38,4 @@ mainpitch:
     -Order reserve studies when required
     -Keep the Board of Directors updated on all Florida Statutes and regulations
       pertain to their association.
+---
