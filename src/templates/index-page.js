@@ -89,7 +89,6 @@ export const IndexPageTemplate = ({
                       <h3 className="has-text-weight-semibold is-size-2">
                         {heading}
                       </h3>
-                      <p>{description}</p>
                     </div>
                   </div>
                 </div>
@@ -160,7 +159,6 @@ export const pageQuery = graphql`
           description
         }
           heading
-          description
         }
       }
     }
