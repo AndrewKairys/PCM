@@ -58,8 +58,9 @@ export const IndexPageTemplate = ({
               lineHeight: '1',
               padding: '0.25em',
             }}
-          >
-            {subheading}
+          ><span>
+              {subheading}
+            </span>
           </h3>
         </div>
       </div>
